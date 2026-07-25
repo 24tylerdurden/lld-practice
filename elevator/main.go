@@ -169,13 +169,3 @@ func main() {
 
 	go controller.ProcessRequests()
 }
-
-
-// this is the client code 
-
-// 
-
-
-
-// elevator system
-// 
